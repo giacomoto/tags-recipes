@@ -8,11 +8,19 @@
           ]
         },
         "copy-from-recipe": {
-            "migrations/": "%MIGRATIONS_DIR%/"
+          "config/": "%CONFIG_DIR%"
+        }
+      },
+      "files": {
+        "config/packages/luckyseven_tags.yaml": {
+          "contents": [
+            "luckyseven_tags:",
+            "  tag_entity: 'App\\Entity\\Tag'"
+          ],
+          "executable": false
         }
       },
       "ref": "5b2157bcd13546fec5765e42f552ad36529a07a7"
     }
   }
 }
-
