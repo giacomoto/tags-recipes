@@ -7,8 +7,12 @@
             "all"
           ]
         },
+        "composer-scripts": {
+          "make:migration": "symfony-cmd"
+        }
       },
-      "ref": "5b2157bcd13456fdc5765e42f552ad36529a07a7"
+      "ref": "5b2157bcd13546fdc5765e42f552ad36529a07a7"
     }
   }
 }
+
