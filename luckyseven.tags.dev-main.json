@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "luckyseven/tags": {
+      "manifest": {
+        "bundles": {
+          "Luckyseven\\Bundle\\LuckysevenTagsBundle\\LuckysevenTagsBundle": [
+            "all"
+          ]
+        },
+      },
+      "ref": "5b2157bcd13456fdc5765e42f552ad36529a07a7"
+    }
+  }
+}
